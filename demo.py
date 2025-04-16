@@ -1,3 +1,4 @@
 a="hemesh"
 b="chilamkurthy"
-print(a+b)
+c="vamshi"
+print(a+b ,"is best friend of ",c)
